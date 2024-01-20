@@ -68,7 +68,7 @@ You can further customize the appearance of your web page by tapping on the **Sh
 Docsify-This Examples
 ---
 
-[Docsify-This Simple Visual Portfolio](https://github.com/paulhibbitts/docsify-this-simple-visual-portfolio), displayed by Docsify-This as a:  
+[Docsify-This Simple Visual Portfolio Template](https://github.com/paulhibbitts/docsify-this-simple-visual-portfolio), displayed by Docsify-This as a:  
 * [Standalone Site](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-simple-visual-portfolio/main&homepage=README.md&browser-tab-title=Design%20Portfolio&loadFavicon=favicon.png "Docsify-This Simple Visual Portfolio")  
 * [Standalone Site with automatic light/dark theme switching](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-simple-visual-portfolio/main&homepage=README.md&browser-tab-title=Design%20Portfolio&loadFavicon=favicon.png&dark-mode=true "Docsify-This Simple Visual Portfolio")  
 * [Standalone Site with favicon](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-simple-visual-portfolio/main&homepage=README.md&browser-tab-title=Design%20Portfolio&loadFavicon=favicon.png&loadFavicon=favicon.png "Docsify-This Simple Visual Portfolio")  
