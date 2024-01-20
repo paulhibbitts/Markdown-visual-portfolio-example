@@ -35,6 +35,8 @@ _This [Docsify-This Simple Visual Portfolio](https://github.com/paulhibbitts/Mar
 
 <div style='display: none'>
 
+---
+
 # Docsify-This Simple Visual Portfolio Template
 
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
