@@ -31,7 +31,7 @@
 
 <!-- This line and everything below it can be deleted -->
 
-_This [Docsify-This Simple Visual Portfolio](https://github.com/paulhibbitts/Markdown-visual-portfolio-example) is based on the [Notion Portfolio Template](https://www.notion.so/templates/design-portfolio-notion)_
+_This [Docsify-This Simple Visual Portfolio](https://github.com/paulhibbitts/docsify-this-simple-visual-portfolio) is based on the [Notion Portfolio Template](https://www.notion.so/templates/design-portfolio-notion)_
 
 <div style='display: none'>
 
@@ -72,9 +72,9 @@ Docsify-This Examples
 * [Standalone Site](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-simple-visual-portfolio/main&homepage=README.md "Docsify-This Simple Visual Portfolio")  
 * [Standalone Site with automatic light/dark theme switching](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-simple-visual-portfolio/main&homepage=README.md&dark-mode=true "Docsify-This Simple Visual Portfolio")  
 * [Standalone Site with favicon](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-simple-visual-portfolio/main&homepage=README.md&loadFavicon=favicon.png "Docsify-This Simple Visual Portfolio")  
+* [Standalone Site with favicon and Browser tab title](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-simple-visual-portfolio/main&homepage=README.md&browser-tab-title=Design%20Portfolio&loadFavicon=favicon.png "Docsify-This Simple Visual Portfolio") 
 * [Standalone Site using the Merriweather font](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-simple-visual-portfolio/main&homepage=README.md&font-family=Merriweather,Georgia,serif "Docsify-This Simple Visual Portfolio")
 * [Standalone Site using the Merriweather font and bolder Headers links](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-simple-visual-portfolio/main&homepage=README.md&font-family=Merriweather,Georgia,serif&header-weight=800 "Docsify-This Simple Visual Portfolio")
 * [Standalone Site with zoomable images](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-simple-visual-portfolio/main&homepage=README.md&zoom-images=true "Docsify-This Simple Visual Portfolio")
-* [Standalone Site with pagination](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-markdown-portfolio-starter/main&homepage=README.md&pagination=true "Docsify-This Simple Visual Portfolio")  
 
 </div>
