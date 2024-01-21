@@ -1,13 +1,13 @@
 ![Header image](images/solid_yellow.png ':class=header-image-full-width :no-zoom')
 
-# ☝🏼 Design Portfolio
+# ☝🏼 **Design Portfolio**
 
 > 👋 Hi, I’m Mary - a web designer based out of San Francisco.
 > 
 
 ↓ Click into each project to learn more about its creation, goal and current version.
 
-## My projects
+## **My projects**
 
 <div class="row">
 <div class="column">
