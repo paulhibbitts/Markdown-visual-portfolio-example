@@ -63,7 +63,7 @@ How to Use
 
 5. Select the page options you want (e.g. Font) and tap the **View as Standalone Page** button to view your Markdown file as a web page for sharing or embedding
 
-You can further customize the appearance of your web page by tapping on the **Show More Page Options »** link in the Docsfy-This Web Page Builder.
+You can further customize the appearance of your web page by tapping on the **Show More Page Options »** link in the Docsify-This Web Page Builder.
 
 Docsify-This Examples
 ---
