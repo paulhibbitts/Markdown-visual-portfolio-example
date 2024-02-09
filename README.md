@@ -11,6 +11,7 @@
 
 [![Website redesign](images/website-redesign.png ':class=banner-tall-image')](website-redesign.md)
 🎨 **Website redesign**
+<span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> UI/UX</span> <span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Brand</span> 
 
 [![3D Art](images/3d-art.png ':class=banner-tall-image')](3d-art.md)
 🖼️ **3D Art**
